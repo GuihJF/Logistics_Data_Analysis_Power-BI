@@ -62,7 +62,7 @@ Logistics_Data_Analysis_Power-BI/ ├── Logistic_Data_Files/ │ ├── d
 
 - **Power BI** – Dashboard creation and data visualization  
 - **Excel / CSV** – Raw data sources  
-- **Python ** – Data cleaning and preprocessing  
+- **Python** – Data cleaning and preprocessing  
 - **Git & GitHub** – Version control and project hosting
 
 ---
